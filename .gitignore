@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.exe
+*.spec
+打包输出/
+打包临时/
+build/
+dist/
+programs.json
+backups/
+已删除/
